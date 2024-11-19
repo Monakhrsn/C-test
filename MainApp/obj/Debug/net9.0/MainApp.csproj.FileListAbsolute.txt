@@ -12,3 +12,4 @@
 /Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/MainApp.pdb
 /Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/MainApp.genruntimeconfig.cache
 /Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/ref/MainApp.dll
+/Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/MainApp.sourcelink.json

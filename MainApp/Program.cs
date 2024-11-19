@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello");
+﻿Console.Write("Insert a number: ");
+Console.ReadKey();
