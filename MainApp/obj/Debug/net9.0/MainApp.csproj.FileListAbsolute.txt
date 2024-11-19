@@ -1,0 +1,14 @@
+/Users/RiderProjects/VersionMaanagment/MainApp/bin/Debug/net9.0/MainApp
+/Users/RiderProjects/VersionMaanagment/MainApp/bin/Debug/net9.0/MainApp.deps.json
+/Users/RiderProjects/VersionMaanagment/MainApp/bin/Debug/net9.0/MainApp.runtimeconfig.json
+/Users/RiderProjects/VersionMaanagment/MainApp/bin/Debug/net9.0/MainApp.dll
+/Users/RiderProjects/VersionMaanagment/MainApp/bin/Debug/net9.0/MainApp.pdb
+/Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/MainApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/MainApp.AssemblyInfoInputs.cache
+/Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/MainApp.AssemblyInfo.cs
+/Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/MainApp.csproj.CoreCompileInputs.cache
+/Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/MainApp.dll
+/Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/refint/MainApp.dll
+/Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/MainApp.pdb
+/Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/MainApp.genruntimeconfig.cache
+/Users/RiderProjects/VersionMaanagment/MainApp/obj/Debug/net9.0/ref/MainApp.dll
